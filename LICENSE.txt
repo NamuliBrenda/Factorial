@@ -1,4 +1,4 @@
-                    GNU GENERAL PUBLIC LICENSE
+                    GGU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
@@ -674,4 +674,5 @@ Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
 
 
-This edit is from the test-branch in RENU
+This edit is from the test-branch in REN
+this edit is from brenda
